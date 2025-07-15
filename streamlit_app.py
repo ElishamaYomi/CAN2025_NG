@@ -13,4 +13,4 @@ iframe_code = """
 </div>
 """
 
-components.html(iframe_code, height=620) 
+components.html(iframe_code, height=600) 
