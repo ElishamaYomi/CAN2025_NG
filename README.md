@@ -34,6 +34,6 @@ The modeling pipeline includes:
 
 The output produced is useful for estimating sickle cell mortality plausibly linked to climate variation.
 
-##  Interpretation Caveats
+##  Interpretation Caveat
 Climate variables are predictive correlates and forecasts assume continuation of past climate-mortality relationships, which may not hold under severe climate change or health system shifts.
 
