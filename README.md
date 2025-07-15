@@ -4,7 +4,6 @@
 ## Overview
 This repository contains the data and modeling components for estimating and forecasting the climate-attributable risk of sickle cell mortality across Africa. The project investigates and visualizes the influence of climate variability on temporal fluctuations in sickle cell disease (SCD) mortality across African countries, enabling targeted public health interventions in the context of a warming climate.
 
----
 
 ## Repository Contents
 
@@ -12,7 +11,7 @@ This repository contains the data and modeling components for estimating and for
 - `modeling_climate_impact_on_sickle_cell_mortality_risk_in_africa.py`: Code for training the climate-attributable mortality model and generating out-of-sample forecasts.
 - `streamlit_app.py`: Dashboard interface for exploring forecast results interactively.
 
----
+
 
 ## Data Sources
 
@@ -21,7 +20,7 @@ This repository contains the data and modeling components for estimating and for
 | Sickle Cell Mortality Data           | Institute for Health Metrics and Evaluation (IHME)     | yearly country-level mortality |
 | Climate & Environmental Variables (Temperature, Precipitation, Aerosol Optical Depth) | Africa Data Hub | Monthly climate indicators |
 
----
+
 
 ## Method Summary
 
