@@ -12,4 +12,4 @@ iframe_code = """
         allowfullscreen>
 </iframe>
 """
-components.html(iframe_code, height=620)
+components.html(iframe_code, height=620, width=1030)
