@@ -17,8 +17,8 @@ This repository contains the data and modeling components for estimating and for
 
 | Dataset                              | Source/Provider                          | Description |
 |--------------------------------------|------------------------------------------|-------------|
-| Sickle Cell Mortality Data           | Institute for Health Metrics and Evaluation (IHME)     | yearly country-level mortality |
-| Climate & Environmental Variables (Temperature, Precipitation, Aerosol Optical Depth) | Africa Data Hub | Monthly climate indicators |
+| [Sickle Cell Mortality Data](https://ihmeuw.org/6u0l)           | Institute for Health Metrics and Evaluation (IHME)     | yearly country-level mortality |
+| [Climate Data (Temperature, Precipitation, Aerosol Optical Depth)](https://ckan.africadatahub.org/dataset/climate-data) | Africa Data Hub | Monthly climate indicators |
 
 
 
